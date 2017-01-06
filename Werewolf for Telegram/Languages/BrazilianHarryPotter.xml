@@ -364,7 +364,7 @@
     <value>Professor de Adivinhação 👳</value>
   </string>
   <string key="Traitor">
-    <value>Severo Snape 🖕</value>
+    <value>Rabicho 🖕</value>
   </string>
   <string key="GuardianAngel">
     <value>Lilian J. Potter 👼</value>
@@ -382,7 +382,7 @@
     <value>Sirius Black 🔫</value>
   </string>
   <string key="Tanner">
-    <value>Rabicho 👺</value>
+    <value>Severo Snape 👺</value>
   </string>
   <string key="Fool">
     <value>Argus Filch 🃏</value>
@@ -709,7 +709,7 @@
     <value>Você é o Dolores Umbrigde e foi Amaldiçoado. Por enquanto você é um professor, mas se você por atacado pelos Comensais, você se tornará um Comensal da Morte também.</value>
   </string>
   <string key="AboutTraitor">
-    <value>Você é o Rabicho, o grande traidor! Por enquanto, você é um simples professor, mas assim que todos os Comensais estiverem mortos, você se transformará em um deles.  Se a vidente vir você, você pode ou não ser identificado(a) por ela como Comensal da Morte .</value>
+    <value>Você é o Severo Snape, o grande traidor! Por enquanto, você é um simples professor, mas assim que todos os Comensais estiverem mortos, você se transformará em um deles.  Se a vidente vir você, você pode ou não ser identificado(a) por ela como Comensal da Morte .</value>
   </string>
   <string key="AboutGA">
     <value>Você é a Lilian Potter , e seu papel é proteger Hogwarts. Durante a noite, você pode escolher um bruxo para proteger, mesmo que isso signifique perder a sua vida.  Porém, se você for proteger um Comensal da Morte, você poderá ter um destino pior que a morte.</value>
@@ -721,7 +721,7 @@
     <value>SECTUMSEMPRA, você é o Sirius Black.  Você possui 2 feitiços para ajudar Hogwarts. Durante o dia, você pode lançar um Sectumsempra em um(a) jogador(a). Todo mundo ouvirá os gritos da vítima e saberão que você é Sirius Black.</value>
   </string>
   <string key="AboutTanner">
-    <value>Você é o Severo Snape, seu time é você mesmo!  Se você for pra Azkaban, você ganha automaticamente, sozinho. Seu egoista!</value>
+    <value>Você é o Rabicho, seu time é você mesmo!  Se você for pra Azkaban, você ganha automaticamente, sozinho. Seu egoista!</value>
   </string>
   <string key="AboutFool">
     <value>O Argus Filch diz que é o Professor de Adivinhação.... Quando ele escolhe alguém pra ver à noite, ele fala um papel aleatório.</value>
@@ -984,7 +984,7 @@
   </string>
 
   <string key="RoleInfoBlacksmith">
-    <value>Você é Minerva MacGonagall: o estudioso em Trato das Criaturas Mágicas de Hogwarts. Você possui uma maleta mágica com todos as Criaturas que já estudou, o suficiente para impedir os lobisomens de atacar por uma noite. Durante o dia, você poderá abrir sua maleta e espalhar algumas criaturas ao redor de Hogwarts, amedrontando os Comensais e fazendo-os deixar de atacar por uma noite. Fora isso, você é apenas um aluno. </value>
+    <value>Você é Newt Scamander: o estudioso em Trato das Criaturas Mágicas de Hogwarts. Você possui uma maleta mágica com todos as Criaturas que já estudou, o suficiente para impedir os lobisomens de atacar por uma noite. Durante o dia, você poderá abrir sua maleta e espalhar algumas criaturas ao redor de Hogwarts, amedrontando os Comensais e fazendo-os deixar de atacar por uma noite. Fora isso, você é apenas um aluno. </value>
   </string>
 
   <string key="RoleInfoAlphaWolf">
@@ -1028,7 +1028,7 @@
     <value>Neville Longbottom 🤕</value>
   </string>
   <string key="Blacksmith">
-    <value>Minerva MacGonagall ⚒</value>
+    <value>Newt Scamander ⚒</value>
   </string>
   <string key="AlphaWolf">
     <value>Voldemort ⚡️</value>
@@ -1058,7 +1058,7 @@
     <value>Você é Neville Longbottom. Você não deveria ter bebido tanto de manhã. Agora você não consegue enxergar nada. Será que você consegue votar na pessoa certa na hora de mandar alguém para Azkaban? (Você tem chance de 50% de votar na pessoa errada)</value>
   </string>
   <string key="AboutBlacksmith">
-    <value>BABUINOS BOBOCAS BALBUCIANDO EM BANDO!!!!Você é Minerva MacGonagall. Durante os anos, você sempre quis usar uma combinação de feitiços, mas agora surgiu a oportunidade. Você irá usar o feitiço Piertotum Locomotor. Agora você tem uma muralha de estátuas para proteger Hogwarts dos ataques dos Comensais da Morte.
+    <value>Você é Newt Scamander. Você possui uma maleta cheia de criaturas mágicas prontas para defender Hogwarts se for necessário!
     </value>
   </string>
   <string key="AboutAlphaWolf">
